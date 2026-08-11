@@ -6,12 +6,22 @@ It serves as a comprehensive frontend prototype demonstrating modern mobile UI/U
 
 ## 🚀 Features
 
-* **Complete User Journey:** Includes Onboarding, Registration, Login, Product Browsing, Cart Management, and a secure Checkout flow.
+https://github.com/user-attachments/assets/ebcaa25b-dd1e-4c26-86c1-554a1f5333b6
+
+
+
+
+
+
+
+* **Complete User Journey:** Includes Onboarding, User Authentication (Login & Register), Profile Management, Category & Brand Browsing, Favorites/Wishlist Tracking, Cart Management, an Express "Buy Now" option, and a secure Checkout flow ending in an Order Confirmation screen.
 * **Modern UI/UX Architecture:** 
   * Responsive, full-screen scrollable dashboard.
+  * Advanced navigation using a custom side drawer and a modular bottom navigation bar.
   * Floating product cards with dynamic image scaling.
   * Signature deep orange accent theme for clear Call-to-Action (CTA) hierarchy.
-* **Interactive State:** Fully functional mock state for the Shopping Cart and Favorites system.
+* **Interactive State:** 
+  * Fully functional mock state for the Shopping Cart, User Data, and Favorites system.
 * **Robust Form Validation:** Utilizes `GlobalKey<FormState>` and Regular Expressions (Regex) to securely validate 16-digit credit card numbers, MM/YY expiry formats, and user authentication fields.
 
 ## 📱 Demo
@@ -59,7 +69,9 @@ Developed by **Waqar Ali**, a computer science and engineering student at the Un
 
 ## ⚙️ How to Run
 
-1. Clone the repository: `git clone [Your Repository URL]`
-2. Navigate to the project directory: `cd good_shoes`
+## ⚙️ How to Run
+
+1. Clone the repository: `git clone https://github.com/chandiowaqar/project_good_shoes.git`
+2. Navigate to the project directory: `cd project_good_shoes`
 3. Install dependencies: `flutter pub get`
 4. Run the app: `flutter run`
