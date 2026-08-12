@@ -67,7 +67,6 @@ Developed by **Waqar Ali**, a computer science and engineering student at the Un
 * **LinkedIn:** www.linkedin.com/in/chandiowaqar
 * **GitHub:** https://github.com/chandiowaqar
 
-## ⚙️ How to Run
 
 ## ⚙️ How to Run
 
