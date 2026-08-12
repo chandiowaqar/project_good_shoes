@@ -28,7 +28,7 @@ It serves as a comprehensive frontend prototype demonstrating modern mobile UI/U
 
 > **Note to viewer:** Check out the side-by-side video demonstration below showing the live code execution alongside the functional application.
 
-*https://github.com/user-attachments/assets/ebcaa25b-dd1e-4c26-86c1-554a1f5333b6*
+https://github.com/user-attachments/assets/ebcaa25b-dd1e-4c26-86c1-554a1f5333b6
 
 ## 🛠️ Tech Stack
 
